@@ -1,6 +1,11 @@
 # 🪐 CurioSphere  
 **An Interactive AR Experience with Unity + Vuforia**  
 
+
+![Unity](https://img.shields.io/badge/Unity-2021.3-blue?logo=unity&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-Engine-orange?logo=vuforia&logoColor=white)
+
+
 CurioSphere is an **Augmented Reality (AR)** project that recognizes real-world images and loads corresponding **3D models** with **audio narration** and **on-screen information**, creating an immersive learning and exploration experience.  
 
 ---
