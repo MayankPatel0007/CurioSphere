@@ -64,7 +64,7 @@ CurioSphere is an **Augmented Reality (AR)** project that recognizes real-world 
 ### Installation
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/CurioSphere.git
+git clone https://github.com/MayankPatel0007/CurioSphere.git
 
 # Open in Unity
 # Configure Vuforia license key in Project Settings > XR > Vuforia
