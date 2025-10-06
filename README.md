@@ -50,6 +50,11 @@ CurioSphere is an **Augmented Reality (AR)** project that recognizes real-world 
 
 ---
 
+![Demo Image](demo.png)
+![Demo Image](demo.png)
+
+---
+
 ## 🧩 Example Use Cases
 
 - **Education** – Interactive textbooks that bring diagrams to life.  
