@@ -50,8 +50,8 @@ CurioSphere is an **Augmented Reality (AR)** project that recognizes real-world 
 
 ---
 
-![Demo Image](demo.png)
-![Demo Image](demo.png)
+![Demo Image](butterfly.png)
+![Demo Image](tiger.png)
 
 ---
 
