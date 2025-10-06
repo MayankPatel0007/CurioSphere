@@ -49,8 +49,6 @@ CurioSphere is an **Augmented Reality (AR)** project that recognizes real-world 
 4. Hear the **audio narration** explaining what you see.  
 
 ---
-
-![Demo Image](butterfly.png)
 ![Demo Image](tiger.png)
 
 ---
